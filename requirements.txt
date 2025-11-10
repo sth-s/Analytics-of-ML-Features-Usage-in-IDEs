@@ -4,3 +4,5 @@ matplotlib
 numpy
 seaborn
 altair
+ipywidgets
+matplotlib-venn
